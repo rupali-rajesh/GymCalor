@@ -1,0 +1,24 @@
+# Database — has real user data, never push this
+gymcalor.db
+
+# ML model — large binary file
+gradient_boosting_model.pkl
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Env vars
+.env
